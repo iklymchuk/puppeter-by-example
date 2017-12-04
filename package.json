@@ -1,0 +1,16 @@
+{
+  "name": "puppeter-by-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^21.2.1",
+    "puppeteer": "^0.13.0"
+  }
+}
